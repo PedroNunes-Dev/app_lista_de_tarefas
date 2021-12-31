@@ -5,7 +5,7 @@ Aplicativo Desenvolvido em PHP durante o Curso Desenvolvimento WEB Completo mini
    Há também um banco de dados para registro das tarefas.</p>
    
  <p>upload → para visualizar o site no ar acesse esse link:
- <a href="http://applistatarefa2.epizy.com/">App lista de tarefa</a></p>
+ <a href= target="blanc" "http://applistatarefa2.epizy.com/">App lista de tarefa</a></p>
 
 <div align="center">
     <h4>Painel de todas as tarefas ainda pendentes</h4>
