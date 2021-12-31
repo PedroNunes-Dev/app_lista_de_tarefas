@@ -2,7 +2,8 @@
 Aplicativo Desenvolvido em PHP durante o Curso Desenvolvimento WEB Completo ministrado por Jorge Sant Ana
 
 <p>Obs.: Nesta aplicação é possível adcionar uma nova tarefa, editar as tarefas existentes e excluir. 
-   Há também um banco de dados para registro das tarefas.</p>
+   Há também um banco de dados para registro das tarefas. Podemos fazer um upgrade nessa aplicação com a inclusão de Login
+   de usuários, dessa forma cada usuário terá seu painel de tarefas individualmente.</p>
    
  <p>upload → para visualizar o site no ar acesse esse link:
  <a target="blanc" href="http://applistatarefa2.epizy.com/">App lista de tarefa</a></p>
