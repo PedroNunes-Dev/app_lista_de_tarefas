@@ -1,7 +1,7 @@
 # app_lista_de_tarefas
 Aplicativo Desenvolvido em PHP durante o Curso Desenvolvimento WEB Completo ministrado por Jorge Sant Ana
 
-<p>Obs.: Nesta aplicação é possível adcionar uma nova tarefa, editar as tarefas existentes e excluir. 
+<p>Obs.: Nesta aplicação é possível adicionar uma nova tarefa, editar as tarefas existentes e excluir. 
    Há também um banco de dados para registro das tarefas. Podemos fazer um upgrade nessa aplicação com a inclusão de Login
    de usuários, dessa forma cada usuário terá seu painel de tarefas individualmente.</p>
    
