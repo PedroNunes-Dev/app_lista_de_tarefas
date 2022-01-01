@@ -6,7 +6,24 @@ Aplicativo Desenvolvido em PHP durante o Curso Desenvolvimento WEB Completo mini
    de usuários, dessa forma cada usuário terá seu painel de tarefas individualmente.</p>
    
  <p>upload → para visualizar o site no ar acesse esse link:
- <a target="blanc" href="http://applistatarefa2.epizy.com/">App lista de tarefa</a></p>
+ <a target="blank" href="http://applistatarefa2.epizy.com/">App lista de tarefa</a></p>
+ 
+ ##
+<div style="display: inline_block"><br>
+   <h4>Tecnologias utilizadas:</h4>
+  <img align="center" alt="Pedro-Html"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
+  <img align="center" alt="Pedro-Html"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+  <img align="center" alt="Pedro-Html"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+  <img align="center" alt="Pedro-Html"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
+  <img align="center" alt="Pedro-Html"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"               target="_blank">
+  <img align="center" alt="Pedro-Html"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+</div>
+ 
+ 
+ 
+ 
+ 
+ 
 
 <div align="center">
     <h4>Painel de todas as tarefas ainda pendentes</h4>
